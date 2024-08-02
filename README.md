@@ -1,0 +1,4 @@
+- 👋 Hi, I’m mahyar ahmadi 
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning ai programming with python 
+- 📫 @mahygamer 
